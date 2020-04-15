@@ -2961,8 +2961,18 @@
   "RootNamespace": "RazorFun",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\henry\\desktop\\coding\\c#\\RazorFun\\Views\\Home\\Projects.cshtml",
+      "TargetPath": "Views\\Home\\Projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\henry\\desktop\\coding\\c#\\RazorFun\\Views\\Home\\Home.cshtml",
       "TargetPath": "Views\\Home\\Home.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\henry\\desktop\\coding\\c#\\RazorFun\\Views\\Home\\Contact.cshtml",
+      "TargetPath": "Views\\Home\\Contact.cshtml",
       "FileKind": "mvc"
     }
   ],

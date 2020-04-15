@@ -21,3 +21,5 @@ C:\Users\henry\desktop\coding\c#\RazorFun\obj\Debug\netcoreapp2.2\RazorFun.Views
 C:\Users\henry\desktop\coding\c#\RazorFun\obj\Debug\netcoreapp2.2\RazorFun.dll
 C:\Users\henry\desktop\coding\c#\RazorFun\obj\Debug\netcoreapp2.2\RazorFun.pdb
 C:\Users\henry\desktop\coding\c#\RazorFun\obj\Debug\netcoreapp2.2\RazorFun.csproj.CopyComplete
+C:\Users\henry\desktop\coding\c#\RazorFun\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\henry\desktop\coding\c#\RazorFun\obj\Debug\netcoreapp2.2\Razor\Views\Home\Projects.g.cshtml.cs
